@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AcitivtyApp</string>
+    <string name="name">Name</string>
+    <string name="EnterName">Enter Name</string>
+
+    <string name="myString">The String i Entered is %1$s. Dev email is %2$s.</string>
+
+
+    <string name="add">plus</string>
+    <string name="sub">sub</string>
+    <string name="mul">mul</string>
+    <string name="div">div</string>
+
+    <string name="calculation">The chosen operator is %1$s. Your first number is %2$s and the second number is %3$s. The final total is %4$s</string>
+
+
+</resources>
